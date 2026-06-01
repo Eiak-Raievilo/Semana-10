@@ -1,1 +1,2 @@
 compatibilidade com o botão de login com safari
+corrigir erro de login
